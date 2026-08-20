@@ -16,16 +16,10 @@ AI suitability score for household tasks, and an original household survey.
 ### Writing
 
 **[The Post-COVID Decline in the Labor Share](https://libertystreeteconomics.newyorkfed.org/2026/06/the-post-covid-decline-in-the-labor-share/)**
-with Richard Audoly, Miles Guerin, and Rachel Schuh.
-*Liberty Street Economics*, Federal Reserve Bank of New York, June 2026
 
-<details>
-<summary>Selected coverage</summary>
+with Richard Audoly, Miles Guerin, and Rachel Schuh. *Liberty Street Economics*, Federal Reserve Bank of New York, June 2026
 
-<br>
-Covered in [S&P Global](https://www.spglobal.com/market-intelligence/en/news-insights/articles/2026/6/labor-share-of-economic-growth-hits-new-low-ai-adoption-could-further-the-trend-103271014), [Investopedia](INVESTOPEDIA_URL), and [Latin Times](https://www.latintimes.com/why-latino-workers-are-being-left-out-americas-economic-boom-according-new-fed-data-598053), and discussed in [Paul Krugman's newsletter](https://paulkrugman.substack.com/p/democracy-in-an-age-of-powermaxxing).
-
-</details>
+Covered in [S&P Global](https://www.spglobal.com/market-intelligence/en/news-insights/articles/2026/6/labor-share-of-economic-growth-hits-new-low-ai-adoption-could-further-the-trend-103271014), [Investopedia]([INVESTOPEDIA_URL](https://www.investopedia.com/the-american-economy-is-growing-but-workers-are-getting-a-shrinking-slice-12006070)), and [Latin Times](https://www.latintimes.com/why-latino-workers-are-being-left-out-americas-economic-boom-according-new-fed-data-598053), and discussed in [Paul Krugman's newsletter](https://paulkrugman.substack.com/p/democracy-in-an-age-of-powermaxxing).
 
 ---
 
