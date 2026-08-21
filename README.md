@@ -1,6 +1,6 @@
 # Srinidhi Narayanan
 
-I'm a Senior Research Analyst in the Labor and Product Markets group at the Federal
+Hi! I'm a Senior Research Analyst in the Labor and Product Markets group at the Federal
 Reserve Bank of New York, where I study monetary policy transmission, firm
 dynamics, and gender inequality in labor markets. I'm more broadly interested in household
 and labor economics, computational methods, and the economics of AI. Previously, I was
